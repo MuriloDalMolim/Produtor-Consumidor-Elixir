@@ -1,6 +1,6 @@
 #  Caso Clássico: Produtor-Consumidor com Buffer Limitado em Elixir
 
-Projeto acadêmico com o problema clássico do **Produtor-Consumidor (Bounded Buffer)**, desenvolvida em Elixir/BEAM.
+Projeto acadêmico realizado para a displina de Programação Concorrente da UTFPR-DV, curso de Engenharia de Software
 
 ---
 
